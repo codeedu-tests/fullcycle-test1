@@ -110,16 +110,6 @@ Essa tarefa **é opcional, ou seja, não é essencial** porém pode ser realizad
 - Criar rotina Github Actions;
 - Rodar testes;
 
-## Vídeo-aula
-
-Você deverá gravar 1 até 4 aulas, cada aula não deve passar de 20 min. Aulas deverão ser gravadas com a utilização de câmera.
-
-Duas aulas deverão ser codificando alguma parte do sistema (de sua escolha) no ato da aula. 
-
-Duas aulas deverão explicar alguma parte do sistema já criado, o objetivo da aula será focar na explicação da implementação e explicar os motivos desta implementação.
-
-Explique com clareza o que será desenvolvido, monte sua didática para que um aluno consiga entende-la facilmente.
-
 ## Entrega
 
 Entregue o projeto em um repositório Git remoto (as aulas deverão estar presentes no repositório, renderize-as em baixa qualidade) e disponibilize o link atraves do e-mail miriane@fullcycle.com.br / leonan@fullcycle.com.br.
